@@ -8,7 +8,7 @@ A [Python](http://isocpp.org) library implementing various counterfactual regre
 
 ##### Acknowledgments
 
-This library was inspired by [Todd W. Neller's](http://cs.gettysburg.edu/~tneller/) and [Marc Lanctot's](http://mlanctot.info/) lecture notes ["An Introduction to Counterfactual Regret Minimization"](http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf). Their lecture notes, slides and original Java implementations for the games of [Rock-Paper-Scissors](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors), [Kuhn poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Dudo](https://en.wikipedia.org/wiki/Dudo) and [Liar Die](https://en.wikipedia.org/wiki/Mia_(game)) have been added to this repository for archival purposes. 
+This library was inspired by [Todd W. Neller's](http://cs.gettysburg.edu/~tneller/) and [Marc Lanctot's](http://mlanctot.info/) lecture notes ["An Introduction to Counterfactual Regret Minimization"](http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/). Their lecture notes, slides and original Java implementations for the games of [Rock-Paper-Scissors](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors), [Kuhn poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Dudo](https://en.wikipedia.org/wiki/Dudo) and [Liar Die](https://en.wikipedia.org/wiki/Mia_(game)) have been added to this repository for archival purposes. 
 
 License
 -------
